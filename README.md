@@ -1,3 +1,5 @@
+#SmartHome
+
 Hệ Thống SmartHome
 Giới thiệu
 Hệ thống SmartHome là một dự án IoT được xây dựng trên nền tảng ESP32, tích hợp các cảm biến và thiết bị để bảo vệ và tự động hóa ngôi nhà. Dự án này cho phép giám sát an ninh, điều khiển cửa và quạt từ xa thông qua ứng dụng Blynk.
