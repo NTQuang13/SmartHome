@@ -1,4 +1,4 @@
-#SmartHome
+# **HỆ THỐNG SMARTHOME**
 
 Hệ Thống SmartHome
 Giới thiệu
@@ -19,5 +19,5 @@ Relay (điều khiển quạt), buzzer (báo động).
 Ứng dụng
 Hệ thống phù hợp để bảo vệ nhà ở, văn phòng nhỏ, với khả năng mở rộng thêm cảm biến nhiệt độ hoặc camera trong tương lai.
 Liên hệ
-Mọi góp ý, vui lòng liên hệ qua GitHub hoặc email của tôi.
+Mọi góp ý, vui lòng liên hệ qua GitHub hoặc email nguyentruongquang13@gmail.com.
 
